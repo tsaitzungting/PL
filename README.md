@@ -11,4 +11,5 @@
 
 ## 專題連結區
 
-print" hello world! "
+# mychannel:
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
