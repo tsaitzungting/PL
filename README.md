@@ -11,5 +11,5 @@
 
 ## 專題連結區
 
-# mychannel:
+# my channel:
 https://www.youtube.com/watch?v=dQw4w9WgXcQ
