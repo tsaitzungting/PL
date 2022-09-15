@@ -1,3 +1,12 @@
+# essential for Windows environment
+init()
+# all available foreground colors
+FORES = [ Fore.BLACK, Fore.RED, Fore.GREEN, Fore.YELLOW, Fore.BLUE, Fore.MAGENTA, Fore.CYAN, Fore.WHITE ]
+# all available background colors
+BACKS = [ Back.BLACK, Back.RED, Back.GREEN, Back.YELLOW, Back.BLUE, Back.MAGENTA, Back.CYAN, Back.WHITE ]
+# brightness values
+BRIGHTNESS = [ Style.DIM, Style.NORMAL, Style.BRIGHT ]
+
 # PL
 
 
