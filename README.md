@@ -18,7 +18,7 @@
 ---------------------------- 
 
 ## 課程筆記區
-
+-[課程作業](http://localhost:8888/notebooks/Desktop/111-1%20%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/PL/week2%E7%B7%B4%E7%BF%92.ipynb)
 ## 作業連結區
 
 ## 專題連結區
