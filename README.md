@@ -2,7 +2,7 @@
 
 <table>
     <tr>
-        <td>Foo</td>
+        <td>test</td>
     </tr>
 </table>
 
