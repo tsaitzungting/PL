@@ -1,29 +1,22 @@
-# essential for Windows environment
-init()
-# all available foreground colors
-FORES = [ Fore.BLACK, Fore.RED, Fore.GREEN, Fore.YELLOW, Fore.BLUE, Fore.MAGENTA, Fore.CYAN, Fore.WHITE ]
-# all available background colors
-BACKS = [ Back.BLACK, Back.RED, Back.GREEN, Back.YELLOW, Back.BLUE, Back.MAGENTA, Back.CYAN, Back.WHITE ]
-# brightness values
-BRIGHTNESS = [ Style.DIM, Style.NORMAL, Style.BRIGHT ]
+import sys
+from termcolor import colored, cprint
+ 
+text = colored('Hello, World!', 'red', attrs=['reverse', 'blink'])
+print(text)
+cprint('Hello, World!', 'green', 'on_red')
+ 
+ 
+def print_red_on_cyan(x): return cprint(x, 'red', 'on_cyan')
+ 
+ 
+print_red_on_cyan('Hello, World!')
+print_red_on_cyan('Hello, Universe!')
+ 
+for i in range(10):
+    cprint(i, 'magenta', end=' ')
+ 
+cprint("Attention!", 'red', attrs=['bold'], file=sys.stderr)
 
-def print_with_color(s, color=Fore.WHITE, brightness=Style.NORMAL, **kwargs):
-    """Utility function wrapping the regular `print()` function 
-    but with colors and brightness"""
-    print(f"{brightness}{color}{s}{Style.RESET_ALL}", **kwargs)
-    
-# printing all available foreground colors with different brightness
-for fore in FORES:
-    for brightness in BRIGHTNESS:
-        print_with_color("Hello world!", color=fore, brightness=brightness)
-        
-# printing all available foreground and background colors with different brightness
-for fore in FORES:
-    for back in BACKS:
-        for brightness in BRIGHTNESS:
-            print_with_color("A", color=back+fore, brightness=brightness, end=' ')
-    print(FUCK)
-    
 # PL
 
 
