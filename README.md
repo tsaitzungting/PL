@@ -7,6 +7,12 @@
     </tr>
 </table>
 
+<ol>
+<li>Bird</li>
+<li>McHale</li>
+<li>Parish</li>
+</ol>
+
 <111-1 師大科技系程式語言> <green>
 
 老師:陳芸琤
