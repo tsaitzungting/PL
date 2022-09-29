@@ -21,7 +21,7 @@
 ## 課程筆記區
 -[week2 練習](https://github.com/tsaitzungting/PL/blob/main/week2%20%E7%B7%B4%E7%BF%92.ipynb)
     
--[week2 三題の作業練習](https://github.com/tsaitzungting/PL/blob/main/week2%E7%B7%B4%E7%BF%92.ipynb)
+-[week2 三題の作業練習](https://github.com/tsaitzungting/PL/blob/main/week2/week2%E7%B7%B4%E7%BF%92.ipynb)
     
 ---------------------------- 
 ## 作業連結區
