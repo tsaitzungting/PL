@@ -21,11 +21,11 @@
 ## 課程筆記區
 -[week2 練習](https://github.com/tsaitzungting/PL/blob/main/week2%20%E7%B7%B4%E7%BF%92.ipynb)
     
--[week2 三題の作業練習](https://github.com/tsaitzungting/PL/blob/main/week2%E7%B7%B4%E7%BF%92.ipynb)
+-[week2 三題の作業練習](https://github.com/tsaitzungting/PL/blob/main/week2/week2%E7%B7%B4%E7%BF%92.ipynb)
     
 ---------------------------- 
 ## 作業連結區
--[week3 超難の作業](https://github.com/tsaitzungting/PL/blob/main/week3-%E4%BD%9C%E6%A5%AD.ipynb)
+-[week3 超難の作業](https://github.com/tsaitzungting/PL/blob/main/week3/week3-%E4%BD%9C%E6%A5%AD.ipynb)
 
 ----------------------------
 ## 專題連結區
