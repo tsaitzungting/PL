@@ -25,8 +25,8 @@
     
 ---------------------------- 
 ## 作業連結區
--[week3 超難の作業](https://github.com/tsaitzungting/PL/blob/main/week3/week3-%E4%BD%9C%E6%A5%AD.ipynb)
-
+-[Homework1 超難の作業](https://github.com/tsaitzungting/PL/blob/main/week3/week3-%E4%BD%9C%E6%A5%AD.ipynb)
+-[Homework2 超難の作業](http://localhost:8888/notebooks/Desktop/111-1%20%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/PL/HW2/HW23.ipynb)
 ----------------------------
 ## 專題連結區
 
@@ -35,4 +35,4 @@
 https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 ![image](https://user-images.githubusercontent.com/113079457/194197920-e7c6d5b7-16d7-4c08-9e63-8f84bba5c6db.png)
-#幫我按讚訂閱家分享
+#幫我按讚訂閱+分享
