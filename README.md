@@ -34,7 +34,7 @@
 
 -[Homework4 超難の作業(11/17)](https://medium.com/@41071124h/%E5%BE%9E%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E8%BE%AF%E8%AB%96%E6%9C%83%E4%BE%86%E7%9C%8B%E6%B0%91%E7%9C%BE%E9%97%9C%E5%BF%83%E7%9A%84%E5%B8%82%E6%94%BF%E8%AD%B0%E9%A1%8C%E8%88%87%E7%B6%B2%E8%B7%AF%E9%A2%A8%E5%90%91-f48a9e1e0abf)
 
---[Homework5 超難の作業(12/1)](https://github.com/tsaitzungting/PL/blob/main/HW6/Untitled.ipynb)
+--[Homework5 超難の作業(12/1)](https://medium.com/@41071124h/%E9%81%8B%E5%BD%A9%E7%9B%9B%E8%A1%8C-%E7%94%A8%E6%B3%95%E5%BE%8B%E8%A7%92%E5%BA%A6%E7%9C%8B%E5%9C%B0%E4%B8%8B%E8%B3%AD%E5%8D%9A%E8%88%87%E9%9D%9E%E6%B3%95%E7%B6%93%E7%87%9F-9a1e29a9f04d)
 ----------------------------
 ## 專題連結區
 
